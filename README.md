@@ -56,12 +56,17 @@ This project demonstrates how to automate incident detection, enrichment, and re
 ### 📊 Wazuh – Monitoring & Alerts
 ![Wazuh Dashboard](screenshots/Wazuh-dashboard.png)
 
-### 📊 Wazuh – Malware file drop alert detail
+### 📊 Wazuh –File Integrity Monitoring alert details(Malware dropped on the File system]
 ![Wazuh Dashboard](screenshots/FIM_ALERT.png)
 
+### 📊 Wazuh – SSH brute Force alert details
+![Wazuh Dashboard](screenshots/alert_detail_ssh.png)
 
-### 🔄 Shuffle – Automated Workflows
+### 🔄 Shuffle – Automated Workflow 1 
 ![Shuffle Workflows](screenshots/SHUFFLE_WORKFLOW_1.png)
+
+### 🔄 Shuffle – Automated Workflow 2
+![Shuffle Workflows](screenshots/SHUFFLE_WORKFLOW_2.png)
 
 ### 📁 TheHive – Case Management
 ![TheHive Cases](screenshots/hive_case_alerts.png)
