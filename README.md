@@ -83,6 +83,15 @@ This project demonstrates how to automate incident detection, enrichment, and re
    - Perform enrichment
    - Update TheHive cases
    - 🔔 Notify on Discord
+  
+
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.  
+
+
 
 
 
