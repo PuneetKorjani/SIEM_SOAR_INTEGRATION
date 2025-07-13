@@ -54,7 +54,7 @@ This project demonstrates how to automate incident detection, enrichment, and re
 > *(Replace these filenames with your actual screenshots)*
 
 ### 📊 Wazuh – Monitoring & Alerts
-![Wazuh Dashboard](screenshots/wazuh_dashboard.png)
+![Wazuh Dashboard](screenshots/Wazuh-dashboard.png)
 
 ### 🔄 Shuffle – Automated Workflows
 ![Shuffle Workflows](screenshots/shuffle_workflow.png)
