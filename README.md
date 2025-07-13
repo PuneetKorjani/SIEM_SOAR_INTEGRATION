@@ -51,19 +51,17 @@ This project demonstrates how to automate incident detection, enrichment, and re
 
 ## 📸 Screenshots
 
-> *(Replace these filenames with your actual screenshots)*
+
 
 ### 📊 Wazuh – Monitoring & Alerts
 ![Wazuh Dashboard](screenshots/Wazuh-dashboard.png)
 
 ### 🔄 Shuffle – Automated Workflows
-![Shuffle Workflows](screenshots/SHUFFLE WORKFLOW 2.png)
+![Shuffle Workflows](screenshots/SHUFFLE_WORKFLOW_1.png)
 
 ### 📁 TheHive – Case Management
 ![TheHive Cases](screenshots/hive_case_alerts.png)
 
-### 🧪 Enrichment Results
-![Enrichment](screenshots/enrichment.png)
 
 ### 🔔 Discord Notifications
 ![Discord Alerts](screenshots/discord_FIM_ALERT.png)
