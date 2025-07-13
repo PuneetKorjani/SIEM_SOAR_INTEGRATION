@@ -82,17 +82,7 @@ This project demonstrates how to automate incident detection, enrichment, and re
    - Update TheHive cases
    - 🔔 Notify on Discord
 
-> 📚 Add detailed steps in a `docs` folder as needed.
 
----
 
-## 📦 Repository Structure
 
-```plaintext
-siem-soar-integration/
-├── screenshots/        # 📸 Project screenshots
-├── workflows/          # 🔄 Shuffle workflow exports
-├── scripts/            # 🐍 Custom helper scripts
-├── README.md           # 📄 Project documentation
-└── LICENSE             # 📝 License file
 
